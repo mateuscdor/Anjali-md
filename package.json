@@ -1,9 +1,9 @@
 {
-  "name": "millie-multidevice",
-  "version": "2.0.1",
+  "name": "Anjali-MD",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Neeraj-x0",
+  "author": "Jackz",
   "scripts": {
     "start": "node .",
     "format": "prettier --write '**/*.{md,js,json}'"
@@ -37,7 +37,7 @@
     "WhatsApp"
   ],
   "bugs": {
-    "url": "https://github.com/Neeraj-x0/Millie-MD/issues"
+    "url": "https://github.com/Jackz-ser/Anjali-md/issues"
   },
-  "homepage": "https://github.com/Neeraj-x0/Millie-MD#readme"
+  "homepage": "https://github.com/Jackz-ser/Anjali-md#readme"
 }
