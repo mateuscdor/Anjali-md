@@ -1,11 +1,11 @@
 {
-	"name": "Anjali-md",
+	"name": "Anjali-MD",
 	"description": " Whatsapp bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Jackz-ser/Anjali-md",
+	"repository": "https://github.com/Neeraj-x0/Millie-MD",
 	"stack": "container",
 	"env": {
 		"THUMBNAIL_IMAGE": {
